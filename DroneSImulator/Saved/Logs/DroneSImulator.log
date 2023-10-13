@@ -1,0 +1,1469 @@
+﻿Log file open, 10/13/23 15:11:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14304)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DroneSImulator
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Yogna\Documents\GitHub\Final-Year-Project\DroneSImulator\DroneSImulator.uproject -AUTH_LOGIN=unused -AUTH_PASSWORD=dd8a5cf6c8df4d4a8902940df904cadb -AUTH_TYPE=exchangecode -epicapp=UE_5.0 -epicenv=Prod -EpicPortal -epicusername=G0ingAFK -epicuserid=b40aa4c1ff78430f9482f2b7f0c0727b -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.2428] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="393244194d63faf1a78ed7bf244424ac"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.350791
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-82C86A31443E394A1606A28212990ED7
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.08 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.2428] (), CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=dd8a5cf6c8df4d4a8902940df904cadb -AUTH_TYPE=exchangecode -epicapp=UE_5.0 -epicenv=Prod -EpicPortal -epicusername=G0ingAFK -epicuserid=b40aa4c1ff78430f9482f2b7f0c0727b -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.10.13-14.11.03:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.10.13-14.11.03:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.10.13-14.11.03:001][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.10.13-14.11.03:002][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.10.13-14.11.03:002][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.10.13-14.11.03:002][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.10.13-14.11.03:002][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.10.13-14.11.03:002][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.10.13-14.11.03:002][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.10.13-14.11.03:002][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.10.13-14.11.03:002][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.10.13-14.11.03:002][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.10.13-14.11.03:002][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.10.13-14.11.03:004][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.10.13-14.11.03:004][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.10.13-14.11.03:004][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.10.13-14.11.03:004][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.10.13-14.11.03:004][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.10.13-14.11.03:004][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.10.13-14.11.03:004][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.10.13-14.11.03:004][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.10.13-14.11.03:004][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.10.13-14.11.03:004][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.10.13-14.11.03:004][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.10.13-14.11.03:022][  0]LogD3D12RHI: Aftermath initialized
+[2023.10.13-14.11.03:022][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.10.13-14.11.03:295][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3050 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.10.13-14.11.03:295][  0]LogD3D12RHI: Adapter has 3977MB of dedicated video memory, 0MB of dedicated system memory, and 8055MB of shared system memory, 1 output[s]
+[2023.10.13-14.11.03:360][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.10.13-14.11.03:360][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8055MB of shared system memory, 0 output[s]
+[2023.10.13-14.11.03:377][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.10.13-14.11.03:377][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8055MB of shared system memory, 0 output[s]
+[2023.10.13-14.11.03:377][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.10.13-14.11.03:377][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.10.13-14.11.03:377][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.10.13-14.11.03:377][  0]LogHAL: Display: Platform has ~ 16 GB [16893382656 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.10.13-14.11.03:377][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.10.13-14.11.03:377][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.10.13-14.11.03:377][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.10.13-14.11.03:378][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.10.13-14.11.03:378][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Config/WindowsEditor/Editor.ini]
+[2023.10.13-14.11.03:378][  0]LogInit: Computer: ARHAM-LAPTOP
+[2023.10.13-14.11.03:378][  0]LogInit: User: Yogna
+[2023.10.13-14.11.03:378][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.10.13-14.11.03:378][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.10.13-14.11.03:378][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.10.13-14.11.03:378][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.10.13-14.11.03:378][  0]LogMemory: Process Physical Memory: 277.94 MB used, 284.36 MB peak
+[2023.10.13-14.11.03:378][  0]LogMemory: Process Virtual Memory: 239.74 MB used, 239.74 MB peak
+[2023.10.13-14.11.03:378][  0]LogMemory: Physical Memory: 8032.59 MB used,  8078.20 MB free, 16110.79 MB total
+[2023.10.13-14.11.03:378][  0]LogMemory: Virtual Memory: 10107.27 MB used,  9587.51 MB free, 19694.79 MB total
+[2023.10.13-14.11.03:378][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.10.13-14.11.03:386][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.10.13-14.11.03:402][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.10.13-14.11.03:403][  0]LogInit: Using OS detected language (en-GB).
+[2023.10.13-14.11.03:403][  0]LogInit: Using OS detected locale (en-GB).
+[2023.10.13-14.11.03:405][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.10.13-14.11.03:593][  0]LogInit: Setting process to per monitor DPI aware
+[2023.10.13-14.11.03:603][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.10.13-14.11.03:603][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.10.13-14.11.03:604][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.10.13-14.11.03:619][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.10.13-14.11.03:619][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.10.13-14.11.03:725][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.10.13-14.11.03:731][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.10.13-14.11.03:731][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.10.13-14.11.03:838][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.10.13-14.11.03:882][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.10.13-14.11.03:889][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.10.13-14.11.03:906][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.10.13-14.11.03:918][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.10.13-14.11.03:918][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.10.13-14.11.03:940][  0]LogD3D12RHI:     GPU DeviceId: 0x25a2 (for the marketing name, search the web for "GPU Device Id")
+[2023.10.13-14.11.03:940][  0]LogWindows: Attached monitors:
+[2023.10.13-14.11.03:940][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.10.13-14.11.03:940][  0]LogWindows: Found 1 attached monitors.
+[2023.10.13-14.11.03:940][  0]LogWindows: EnumDisplayDevices:
+[2023.10.13-14.11.03:940][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.10.13-14.11.03:940][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.10.13-14.11.03:941][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.10.13-14.11.03:941][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.10.13-14.11.03:941][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.10.13-14.11.03:941][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2023.10.13-14.11.03:941][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2023.10.13-14.11.03:941][  0]LogD3D12RHI:   Driver Version: 537.42 (internal:31.0.15.3742, unified:537.42)
+[2023.10.13-14.11.03:941][  0]LogD3D12RHI:      Driver Date: 9-12-2023
+[2023.10.13-14.11.03:941][  0]LogRHI: Texture pool is 2129 MB (70% of 3042 MB)
+[2023.10.13-14.11.03:941][  0]LogD3D12RHI: Async texture creation enabled
+[2023.10.13-14.11.03:941][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.10.13-14.11.03:951][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.10.13-14.11.03:958][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/DroneSImulator.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/DroneSImulator.uproject"  -platform=all'
+[2023.10.13-14.11.03:958][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/DroneSImulator.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/DroneSImulator.uproject"  -platform=all" ]
+[2023.10.13-14.11.03:988][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.10.13-14.11.03:996][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.10.13-14.11.03:996][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.10.13-14.11.04:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.10.13-14.11.04:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.10.13-14.11.04:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.10.13-14.11.04:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.10.13-14.11.04:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.10.13-14.11.04:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.10.13-14.11.04:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.10.13-14.11.04:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.10.13-14.11.04:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.10.13-14.11.04:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.10.13-14.11.04:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.10.13-14.11.04:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.10.13-14.11.04:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.10.13-14.11.04:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.10.13-14.11.04:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.10.13-14.11.04:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.10.13-14.11.04:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.10.13-14.11.04:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.10.13-14.11.04:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.10.13-14.11.04:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.10.13-14.11.04:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.10.13-14.11.04:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.10.13-14.11.04:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.10.13-14.11.04:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.10.13-14.11.04:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.10.13-14.11.04:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.10.13-14.11.04:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.10.13-14.11.04:056][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.10.13-14.11.04:064][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.10.13-14.11.04:067][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.10.13-14.11.04:067][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.10.13-14.11.04:067][  0]LogTargetPlatformManager:   ADPCM
+[2023.10.13-14.11.04:067][  0]LogTargetPlatformManager:   PCM
+[2023.10.13-14.11.04:070][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.10.13-14.11.04:070][  0]LogTargetPlatformManager:   BINKA
+[2023.10.13-14.11.04:070][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.10.13-14.11.04:070][  0]LogTargetPlatformManager:   OGG
+[2023.10.13-14.11.04:070][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.10.13-14.11.04:070][  0]LogTargetPlatformManager:   OPUS
+[2023.10.13-14.11.04:119][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.10.13-14.11.04:119][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   SF_METAL
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.10.13-14.11.04:125][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.10.13-14.11.04:126][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.10.13-14.11.04:128][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.10.13-14.11.04:128][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.10.13-14.11.04:128][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.10.13-14.11.04:128][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.10.13-14.11.04:128][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.10.13-14.11.04:128][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.10.13-14.11.04:128][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.10.13-14.11.04:128][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.10.13-14.11.04:129][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.10.13-14.11.04:129][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.10.13-14.11.04:130][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.10.13-14.11.04:130][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.10.13-14.11.04:131][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.10.13-14.11.04:131][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.10.13-14.11.04:134][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.10.13-14.11.04:134][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.10.13-14.11.04:134][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.10.13-14.11.04:134][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.10.13-14.11.04:151][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.10.13-14.11.04:151][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.10.13-14.11.04:151][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.10.13-14.11.04:159][  0]LogDerivedDataCache: Speed tests for C:/Users/Yogna/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.10.13-14.11.04:159][  0]LogDerivedDataCache: Display: Performance to C:/Users/Yogna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=2192.14MBs, RandomWriteSpeed=131.40MBs. Assigned SpeedClass 'Local'
+[2023.10.13-14.11.04:161][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yogna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.10.13-14.11.04:161][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.10.13-14.11.04:161][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.10.13-14.11.04:169][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.10.13-14.11.04:169][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.10.13-14.11.04:170][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/Shaders/WorkingDirectory/2032/).
+[2023.10.13-14.11.04:170][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yogna/AppData/Local/Temp/UnrealShaderWorkingDir/752106AF4E099A1771CAC09DA2DA0F72/'.
+[2023.10.13-14.11.04:170][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.10.13-14.11.04:170][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.10.13-14.11.05:480][  0]LogSlate: Using FreeType 2.10.0
+[2023.10.13-14.11.05:480][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.10.13-14.11.05:529][  0]LogAssetRegistry: FAssetRegistry took 0.0111 seconds to start up
+[2023.10.13-14.11.05:534][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.10.13-14.11.05:789][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.10.13-14.11.05:790][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.10.13-14.11.05:987][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.10.13-14.11.05:987][  0]LogDeviceProfileManager: Active device profile: [000009A6555047C0][000009A645F25000 50] WindowsEditor
+[2023.10.13-14.11.05:987][  0]LogDeviceProfileManager: Profiles: [000009A655504280][000009A645F2A000 50] Windows, [000009A6555047C0][000009A645F25000 50] WindowsEditor, [000009A655502A00][000009A645F22800 50] WindowsServer, [000009A6555016C0][000009A645DFA000 50] WindowsClient, [000009A655501180][000009A645F27800 50] IOS, [000009A655501C00][000009A655530000 50] iPadAir2, [000009A655505400][000009A655537800 50] IPadPro, [000009A655505780][000009A655535000 50] iPadAir3, [000009A655503D40][000009A65553A000 50] iPadAir4, [000009A655504B40][000009A65553C800 50] iPadMini4, [000009A655500E00][000009A631F25000 50] iPadMini5, [000009A655504EC0][000009A655520000 50] iPadMini6, [000009A655508500][000009A65552A000 50] iPhone6S, [000009A655508880][000009A655527800 50] iPhone7, [000009A655508C00][000009A655525000 50] iPodTouch7, [000009A655506900][000009A65552C800 50] iPhone6SPlus, [000009A655508180][000009A655532800 50] iPhone7Plus, [000009A655505CC0][000009A655540000 50] iPhoneSE, [000009A6555032C0][000009A655545000 50] iPhone8, [000009A655508A40][000009A655547800 50] iPhone8Plus, [000009A655501500][000009A65554A000 50] iPhoneX, [000009A655503F00][000009A65554C800 50] iPhoneXS, [000009A655507E00][000009A655522800 50] iPhoneXSMax, [000009A655504980][000009A655550000 50] iPhoneXR, [000009A655502300][000009A655555000 50] iPhone11, [000009A655507C40][000009A655557800 50] iPhone11Pro, [000009A655505240][000009A65555A000 50] iPhone11ProMax, [000009A655507540][000009A65555C800 50] iPhoneSE2, [000009A6555039C0][000009A655542800 50] iPhone12Mini, [000009A655507380][000009A6555B0000 50] iPhone12, [000009A655500000][000009A6555B5000 50] iPhone12Pro, [000009A655502F40][000009A6555B7800 50] iPhone12ProMax, [000009A655501880][000009A6555BA000 50] iPhone13Mini, [000009A655508340][000009A6555BC800 50] iPhone13, [000009A655500700][000009A655552800 50] iPhone13Pro, [000009A655503B80][000009A6555C0000 50] iPhone13ProMax, [000009A655500380][000009A6555C5000 50] iPadPro105, [000009A6555078C0][000009A6555C7800 50] iPadPro129, [000009A655506740][000009A6555CA000 50] iPadPro97, [000009A655507A80][000009A6555CC800 50] iPadPro2_129, [000009A655503800][000009A6555B2800 50] iPad5, [000009A655500C40][000009A6555D0000 50] iPad6, [000009A6555071C0][000009A6555D5000 50] iPad7, [000009A6555024C0][000009A6555D7800 50] iPad8, [000009A655506580][000009A6555DA000 50] iPad9, [000009A655501DC0][000009A6555DC800 50] iPadPro11, [000009A6555086C0][000009A6555C2800 50] iPadPro2_11, [000009A655501A40][000009A6555E0000 50] iPadPro3_11, [000009A655507700][000009A6555E5000 50] iPadPro3_129, [000009A655502140][000009A6555E7800 50] iPadPro4_129, [000009A655500FC0][000009A6555EA000 50] iPadPro5_129, [000009A6555055C0][000009A6555EC800 50] AppleTV, [000009A655507000][000009A6555D2800 50] AppleTV4K, [000009A655506AC0][000009A6555F0000 50] TVOS, [000009A65550A2C0][000009A6555F7800 50] Mac, [000009A65550A640][000009A6555F5000 50] MacEditor, [000009A655503640][000009A6555FA000 50] MacClient, [000009A655501F80][000009A6555FC800 50] MacServer, [000009A65550A9C0][000009A655600000 50] Linux, [000009A6555040C0][000009A655602800 50] LinuxEditor, [000009A655505E80][000009A655607800 50] LinuxArm64Editor, [000009A655509680][000009A65560A000 50] LinuxArm64, [000009A655500540][000009A65560C800 50] LinuxClient, [000009A655505080][000009A6555E2800 50] LinuxArm64Client, [000009A655501340][000009A655605000 50] LinuxServer, [000009A655509140][000009A655610000 50] LinuxArm64Server, [000009A655506200][000009A655615000 50] Android, [000009A655502D80][000009A655617800 50] Android_Preview_OpenGL, [000009A6555008C0][000009A65561A000 50] Android_Preview_Vulkan, [000009A6555063C0][000009A65561C800 50] Android_Low, [000009A6555001C0][000009A6555F2800 50] Android_Mid, [000009A655503100][000009A655620000 50] Android_High, [000009A655507FC0][000009A655625000 50] Android_Default, [000009A655502840][000009A655627800 50] Android_Adreno4xx, [000009A655509300][000009A65562A000 50] Android_Adreno5xx_Low, [000009A655505B00][000009A65562C800 50] Android_Adreno5xx, [000009A655509A00][000009A655612800 50] Android_Adreno6xx, [000009A655506C80][000009A655630000 50] Android_Adreno6xx_Vulkan, [000009A655504D00][000009A655635000 50] Android_Adreno7xx, [000009A655509F40][000009A655637800 50] Android_Adreno7xx_Vulkan, [000009A655509D80][000009A65563A000 50] Android_Mali_T6xx, [000009A655502BC0][000009A65563C800 50] Android_Mali_T7xx, [000009A655503480][000009A655622800 50] Android_Mali_T8xx, [000009A655502680][000009A655640000 50] Android_Mali_G71, [000009A655509BC0][000009A655645000 50] Android_Mali_G72, [000009A655500A80][000009A655647800 50] Android_Mali_G72_Vulkan, [000009A655506E40][000009A65564A000 50] Android_Mali_G76, [000009A655504600][000009A65564C800 50] Android_Mali_G76_Vulkan, [000009A65550A480][000009A655632800 50] Android_Mali_G77, [000009A655509840][000009A655650000 50] Android_Mali_G77_Vulkan, [000009A65550AD40][000009A655655000 50] Android_Mali_G78, [000009A655508F80][000009A655657800 50] Android_Mali_G78_Vulkan, [000009A65550AB80][000009A65565A000 50] Android_Mali_G710, [000009A655505940][000009A65565C800 50] Android_Mali_G710_Vulkan, [000009A65550A800][000009A655642800 50] Android_Xclipse_920, [000009A65550B980][000009A655660000 50] Android_Xclipse_920_Vulkan, [000009A655508DC0][000009A655665000 50] Android_Vulkan_SM5, [000009A65550B280][000009A655667800 50] Android_PowerVR_G6xxx, [000009A65550CE80][000009A65566A000 50] Android_PowerVR_GT7xxx, [000009A65550B7C0][000009A65566C800 50] Android_PowerVR_GE8xxx, [000009A65550AF00][000009A655652800 50] Android_PowerVR_GM9xxx, [000009A65550D040][000009A655670000 50] Android_PowerVR_GM9xxx_Vulkan, [000009A65550C400][000009A655675000 50] Android_TegraK1, [000009A65550D200][000009A655677800 50] Android_Unknown_Vulkan, [000009A65550B600][000009A65567A000 50] Oculus_Quest, [000009A65550CB00][000009A65567C800 50] Oculus_Quest2, [000009A65550BEC0][000009A655662800 50] HoloLens, 
+[2023.10.13-14.11.05:987][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.10.13-14.11.06:011][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.10.13-14.11.06:189][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.10.13-14.11.06:189][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.10.13-14.11.06:189][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.10.13-14.11.06:189][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.10.13-14.11.06:189][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.10.13-14.11.06:201][  0]LogNetVersion: DroneSImulator 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1191042223)
+[2023.10.13-14.11.06:308][  0]LogSlate: Border
+[2023.10.13-14.11.06:308][  0]LogSlate: BreadcrumbButton
+[2023.10.13-14.11.06:308][  0]LogSlate: Default
+[2023.10.13-14.11.06:308][  0]LogSlate: Icons.Save
+[2023.10.13-14.11.06:308][  0]LogSlate: Icons.Toolbar.Settings
+[2023.10.13-14.11.06:308][  0]LogSlate: ListView
+[2023.10.13-14.11.06:308][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.10.13-14.11.06:308][  0]LogSlate: SoftwareCursor_Grab
+[2023.10.13-14.11.06:308][  0]LogSlate: TableView.DarkRow
+[2023.10.13-14.11.06:308][  0]LogSlate: TableView.Row
+[2023.10.13-14.11.06:308][  0]LogSlate: TreeView
+[2023.10.13-14.11.06:497][  0]SourceControl: Source control is disabled
+[2023.10.13-14.11.06:524][  0]SourceControl: Source control is disabled
+[2023.10.13-14.11.06:524][  0]SourceControl: Source control is disabled
+[2023.10.13-14.11.06:633][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.10.13-14.11.06:633][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.10.13-14.11.06:633][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.10.13-14.11.06:980][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: ADD0B95F42772ED7731B278C42C49EE5 | Instance: 5034CA154FAE393D4065CC97D48D3812 (ARHAM-LAPTOP-2032).
+[2023.10.13-14.11.07:020][  0]LogPython: Using Python 3.9.7
+[2023.10.13-14.11.07:712][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.10.13-14.11.07:736][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.10.13-14.11.08:022][  0]SourceControl: Source control is disabled
+[2023.10.13-14.11.08:025][  0]SourceControl: Source control is disabled
+[2023.10.13-14.11.08:031][  0]SourceControl: Source control is disabled
+[2023.10.13-14.11.08:039][  0]LogUProjectInfo: Found projects:
+[2023.10.13-14.11.08:128][  0]LogOpenImageDenoise: OIDN starting up
+[2023.10.13-14.11.08:214][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.10.13-14.11.08:241][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.10.13-14.11.08:241][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.10.13-14.11.08:343][  0]LogCollectionManager: Loaded 0 collections in 0.001614 seconds
+[2023.10.13-14.11.08:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Collections/' took 0.00s
+[2023.10.13-14.11.08:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Developers/Yogna/Collections/' took 0.00s
+[2023.10.13-14.11.08:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Collections/' took 0.00s
+[2023.10.13-14.11.08:759][  0]LogEngine: Initializing Engine...
+[2023.10.13-14.11.08:770][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.10.13-14.11.08:772][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.10.13-14.11.09:018][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.10.13-14.11.09:019][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.13-14.11.09:037][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.11.09:070][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.10.13-14.11.09:070][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.10.13-14.11.09:090][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.10.13-14.11.09:091][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.10.13-14.11.09:091][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.10.13-14.11.09:091][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.10.13-14.11.09:091][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.10.13-14.11.09:092][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-14.11.09:092][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-14.11.09:092][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-14.11.09:092][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-14.11.09:092][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-14.11.09:092][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-14.11.09:092][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-14.11.09:092][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-14.11.09:092][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-14.11.09:092][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-14.11.09:092][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-14.11.09:099][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-14.11.09:205][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.10.13-14.11.09:205][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-14.11.09:207][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-14.11.09:207][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-14.11.09:208][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.10.13-14.11.09:208][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.11.09:210][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.11.09:210][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.10.13-14.11.09:210][  0]LogInit: FAudioDevice initialized.
+[2023.10.13-14.11.09:210][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.10.13-14.11.09:210][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.10.13-14.11.09:210][  0]LogInit: Texture streaming: Enabled
+[2023.10.13-14.11.09:245][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.10.13-14.11.09:255][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.10.13-14.11.09:277][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.10.13-14.11.09:284][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.10.13-14.11.09:285][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.10.13-14.11.10:507][  0]LogLiveCoding: Display: First instance in process group "UE_DroneSImulator_0x81a3566f", spawning console
+[2023.10.13-14.11.10:507][  0]LogLiveCoding: Display: Waiting for server
+[2023.10.13-14.11.10:507][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.10.13-14.11.10:510][  0]LogInit: Transaction tracking system initialized
+[2023.10.13-14.11.10:583][  0]BlueprintLog: New page: Editor Load
+[2023.10.13-14.11.10:853][  0]LocalizationService: Localization service is disabled
+[2023.10.13-14.11.10:923][  0]TimingProfiler: Initialize
+[2023.10.13-14.11.10:923][  0]TimingProfiler: OnSessionChanged
+[2023.10.13-14.11.10:923][  0]LoadingProfiler: Initialize
+[2023.10.13-14.11.10:923][  0]LoadingProfiler: OnSessionChanged
+[2023.10.13-14.11.10:923][  0]NetworkingProfiler: Initialize
+[2023.10.13-14.11.10:923][  0]NetworkingProfiler: OnSessionChanged
+[2023.10.13-14.11.10:923][  0]MemoryProfiler: Initialize
+[2023.10.13-14.11.10:923][  0]MemoryProfiler: OnSessionChanged
+[2023.10.13-14.11.11:627][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/' took 0.00s
+[2023.10.13-14.11.11:627][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.10.13-14.11.11:750][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.10.13-14.11.11:754][  0]SourceControl: Source control is disabled
+[2023.10.13-14.11.11:754][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.059
+[2023.10.13-14.11.11:754][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.13-14.11.11:754][  0]LightingResults: New page: Lighting Build
+[2023.10.13-14.11.11:760][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.11.11:760][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.11.11:760][  0]MapCheck: New page: Map Check
+[2023.10.13-14.11.11:760][  0]LightingResults: New page: Lighting Build
+[2023.10.13-14.11.11:767][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.11.11:772][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.10.13-14.11.11:810][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.10.13-14.11.11:815][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.11.11:816][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.10.13-14.11.11:816][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.13-14.11.11:816][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.10.13-14.11.12:101][  0]LogWorldPartition: Display: WorldPartition initialize took 283 ms
+[2023.10.13-14.11.12:268][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.13-14.11.12:278][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.10.13-14.11.12:278][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.13-14.11.12:293][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 14.366ms to complete.
+[2023.10.13-14.11.12:293][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.539
+[2023.10.13-14.11.12:305][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.610
+[2023.10.13-14.11.12:305][  0]LogShaderCompilers: Display: ================================================
+[2023.10.13-14.11.12:305][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.13-14.11.12:305][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.10.13-14.11.12:305][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.10.13-14.11.12:305][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.10.13-14.11.12:306][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.13-14.11.12:306][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.13-14.11.12:306][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.13-14.11.12:306][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.13-14.11.12:306][  0]LogShaderCompilers: Display: ================================================
+[2023.10.13-14.11.12:450][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.11.12:456][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.11.12:460][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.11.12:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.11.12:480][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.10.13-14.11.12:480][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.13-14.11.12:481][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.10.13-14.11.12:481][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.13-14.11.12:481][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.10.13-14.11.12:481][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.13-14.11.12:482][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.10.13-14.11.12:482][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.13-14.11.12:483][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.10.13-14.11.12:483][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.13-14.11.12:483][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.10.13-14.11.12:483][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.13-14.11.12:483][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.10.13-14.11.12:483][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.13-14.11.12:484][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.10.13-14.11.12:484][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.13-14.11.12:484][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.10.13-14.11.12:484][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.13-14.11.12:484][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.10.13-14.11.12:484][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.13-14.11.12:484][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.10.13-14.11.12:673][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.13-14.11.12:676][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.10.13-14.11.12:678][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.13-14.11.12:680][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.13-14.11.12:680][  0]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.10.13-14.11.12:705][  0]LogViewport: Scene viewport resized to 1523x510, mode Windowed.
+[2023.10.13-14.11.16:342][  0]LogStall: Startup...
+[2023.10.13-14.11.16:346][  0]LogStall: Startup complete.
+[2023.10.13-14.11.16:485][  0]LogLoad: (Engine Initialization) Total time: 14.79 seconds
+[2023.10.13-14.11.16:485][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.10.13-14.11.16:522][  0]LogAssetRegistry: Asset discovery search completed in 10.9956 seconds
+[2023.10.13-14.11.16:527][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.10.13-14.11.16:530][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.10.13-14.11.21:666][ 55]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.10.13-14.11.21:674][ 55]LogContentBrowser: Creating deferred item: NewWorld
+[2023.10.13-14.11.21:676][ 55]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.13-14.11.21:754][ 57]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.10.13-14.11.22:922][ 88]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2023.10.13-14.11.22:923][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.11.22:952][ 88]LogContentBrowser: End creating deferred item NewWorld
+[2023.10.13-14.11.24:575][127]LogObjectTools: Deleting 1 worlds: /Game/NewWorld.NewWorld
+[2023.10.13-14.11.24:575][127]LogObjectTools: Currently 1 active worlds: /Temp/Untitled_1.Untitled_1
+[2023.10.13-14.11.24:590][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.10.13-14.11.25:737][127]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.13-14.11.25:796][127]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.11.25:797][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.11.25:798][127]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2023.10.13-14.11.25:798][127]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.11.25:799][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.11.25:812][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.13-14.11.25:824][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.13-14.11.25:834][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.13-14.11.31:131][171]LogSlate: Window 'New Level' being destroyed
+[2023.10.13-14.11.33:470][211]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.10.13-14.11.33:480][211]LogContentBrowser: Creating deferred item: NewWorld
+[2023.10.13-14.11.33:542][213]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.10.13-14.11.41:882][553]LogContentBrowser: Attempting asset rename: NewWorld -> TestWOrld
+[2023.10.13-14.11.41:882][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.11.41:900][553]LogContentBrowser: End creating deferred item NewWorld
+[2023.10.13-14.11.49:024][923]LogContentBrowser: Attempting asset rename: TestWOrld -> TestWorld
+[2023.10.13-14.11.49:074][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.10.13-14.11.49:084][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.13-14.11.49:093][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.10.13-14.11.49:107][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.10.13-14.11.49:117][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.10.13-14.11.49:126][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.10.13-14.11.51:213][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.10.13-14.11.52:476][ 32]LogSlate: Window 'Save Content' being destroyed
+[2023.10.13-14.11.52:686][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestWorld" FILE="../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/TestWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.13-14.11.52:699][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.10.13-14.11.52:704][ 32]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004568 seconds
+[2023.10.13-14.11.52:706][ 32]LogSavePackage: Moving output files for package: /Game/TestWorld
+[2023.10.13-14.11.52:706][ 32]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/TestWorld336FC71C4861A6FC342D5D8384BCD080.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/TestWorld.umap'
+[2023.10.13-14.11.52:717][ 32]LogFileHelpers: Saving map 'TestWorld' took 0.033
+[2023.10.13-14.11.52:746][ 32]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TestWorld.TestWorld
+[2023.10.13-14.11.52:746][ 32]Cmd: MAP LOAD FILE="../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/TestWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.13-14.11.52:747][ 32]LightingResults: New page: Lighting Build
+[2023.10.13-14.11.52:747][ 32]LoadErrors: New page: Loading map: TestWorld.umap
+[2023.10.13-14.11.52:778][ 32]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.11.52:778][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.11.52:779][ 32]MapCheck: New page: Map Check
+[2023.10.13-14.11.52:779][ 32]LightingResults: New page: Lighting Build
+[2023.10.13-14.11.52:788][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.11.52:808][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.13-14.11.52:815][ 32]LogWorld: UWorld::CleanupWorld for TestWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.11.52:816][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.11.52:825][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.13-14.11.52:835][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.13-14.11.52:836][ 32]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestWorld'.
+[2023.10.13-14.11.52:836][ 32]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.13-14.11.52:837][ 32]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.11.52:837][ 32]LogAIModule: Creating AISystem for world TestWorld
+[2023.10.13-14.11.52:839][ 32]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.13-14.11.52:847][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.10.13-14.11.52:851][ 32]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.13-14.11.52:852][ 32]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2023.10.13-14.11.52:852][ 32]LogFileHelpers: Loading map 'TestWorld' took 0.105
+[2023.10.13-14.11.52:857][ 32]AssetCheck: New page: Asset Save: TestWorld
+[2023.10.13-14.11.52:857][ 32]LogContentValidation: Display: Validating World /Game/TestWorld.TestWorld
+[2023.10.13-14.13.04:288][249]LogDerivedDataCache: C:/Users/Yogna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.012 and deleted 0 file(s) with total size 0 MiB.
+[2023.10.13-14.31.16:502][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.10.13-14.31.16:503][618]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TestWorld.TestWorld
+[2023.10.13-14.31.16:504][618]Cmd: MAP LOAD FILE="../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/TestWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.13-14.31.16:504][618]LightingResults: New page: Lighting Build
+[2023.10.13-14.31.16:504][618]LoadErrors: New page: Loading map: TestWorld.umap
+[2023.10.13-14.31.16:506][618]LogWorld: UWorld::CleanupWorld for TestWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.31.16:506][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.31.16:506][618]MapCheck: New page: Map Check
+[2023.10.13-14.31.16:506][618]LightingResults: New page: Lighting Build
+[2023.10.13-14.31.16:517][618]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.31.16:521][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.10.13-14.31.16:524][618]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestWorld'.
+[2023.10.13-14.31.16:525][618]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.13-14.31.16:525][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.31.16:525][618]LogAIModule: Creating AISystem for world TestWorld
+[2023.10.13-14.31.16:527][618]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.13-14.31.16:539][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.10.13-14.31.16:543][618]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.13-14.31.16:543][618]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2023.10.13-14.31.16:543][618]LogFileHelpers: Loading map 'TestWorld' took 0.040
+[2023.10.13-14.31.43:416][400]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.13-14.31.43:416][400]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.13-14.31.43:419][400]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/TestWorld.TestWorld:PersistentLevel.DirectionalLight_0
+[2023.10.13-14.31.43:419][400]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/TestWorld.TestWorld:PersistentLevel.DirectionalLight_0
+[2023.10.13-14.31.51:547][581]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.10.13-14.31.51:547][581]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.10.13-14.31.51:548][581]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/TestWorld.TestWorld:PersistentLevel.SkyLight_0
+[2023.10.13-14.31.51:548][581]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/TestWorld.TestWorld:PersistentLevel.SkyLight_0
+[2023.10.13-14.31.59:665][779]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2023.10.13-14.31.59:665][779]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2023.10.13-14.31.59:666][779]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/TestWorld.TestWorld:PersistentLevel.ExponentialHeightFog_0
+[2023.10.13-14.31.59:666][779]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/TestWorld.TestWorld:PersistentLevel.ExponentialHeightFog_0
+[2023.10.13-14.32.08:577][  8]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.10.13-14.32.08:578][  8]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.10.13-14.32.08:578][  8]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/TestWorld.TestWorld:PersistentLevel.SkyAtmosphere_0
+[2023.10.13-14.32.08:578][  8]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/TestWorld.TestWorld:PersistentLevel.SkyAtmosphere_0
+[2023.10.13-14.32.19:207][546]Cmd: DELETE
+[2023.10.13-14.32.19:207][546]Cmd: ACTOR DELETE
+[2023.10.13-14.32.19:209][546]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2023.10.13-14.32.19:226][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.10.13-14.32.19:228][546]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.10.13-14.32.20:456][586]Cmd: TRANSACTION UNDO
+[2023.10.13-14.32.20:457][586]LogEditorTransaction: Undo Delete Elements
+[2023.10.13-14.32.27:004][760]Cmd: DELETE
+[2023.10.13-14.32.27:004][760]Cmd: ACTOR DELETE
+[2023.10.13-14.32.27:006][760]LogEditorActor: Deleted Actor: SkyLight
+[2023.10.13-14.32.27:017][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.10.13-14.32.27:018][760]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.10.13-14.32.45:659][617]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.10.13-14.32.56:123][192]LogEditorViewport: Clicking Background
+[2023.10.13-14.33.31:674][690]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2023.10.13-14.33.31:790][690]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2023.10.13-14.33.31:896][690]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2023.10.13-14.33.31:896][690]LogTurnkeySupport: Display: Adding device menu item for ARHAM-LAPTOP
+[2023.10.13-14.33.31:896][690]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/DroneSImulator.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/DroneSImulator.uproject"  -Device=Win64@ARHAM-LAPTOP'
+[2023.10.13-14.33.31:896][690]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/DroneSImulator.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/DroneSImulator.uproject"  -Device=Win64@ARHAM-LAPTOP" -nocompile ]
+[2023.10.13-14.33.32:119][695]LogTurnkeySupport: Completed device detection: Code = 0
+[2023.10.13-14.35.10:647][580]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Ear (2)), InstanceID=1
+[2023.10.13-14.35.10:664][581]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.35.10:743][585]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d1e313d8-4f1e-427c-bb85-56d1d883ebed}, Name=Headphones (Ear (2))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=68.22
+[2023.10.13-14.35.10:743][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.35.10:751][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.35.19:980][140]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.10.13-14.35.19:998][141]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.35.20:076][145]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60eb5d85-9cf6-4e94-aff8-02784ad81bc3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=73.67
+[2023.10.13-14.35.20:076][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.35.20:085][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.37.58:993][651]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Ear (2)), InstanceID=1
+[2023.10.13-14.37.58:993][651]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.37.59:328][651]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d1e313d8-4f1e-427c-bb85-56d1d883ebed}, Name=Headphones (Ear (2))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=26.62
+[2023.10.13-14.37.59:328][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.37.59:334][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.38.19:418][712]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.10.13-14.38.19:418][712]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.38.20:081][713]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60eb5d85-9cf6-4e94-aff8-02784ad81bc3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=551.31
+[2023.10.13-14.38.20:081][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.38.20:090][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.38.27:795][737]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Ear (2)), InstanceID=1
+[2023.10.13-14.38.27:795][737]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.38.28:124][737]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d1e313d8-4f1e-427c-bb85-56d1d883ebed}, Name=Headphones (Ear (2))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=33.03
+[2023.10.13-14.38.28:124][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.38.28:133][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.38.40:519][775]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.10.13-14.38.40:519][775]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.38.40:848][775]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60eb5d85-9cf6-4e94-aff8-02784ad81bc3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=61.43
+[2023.10.13-14.38.40:848][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.38.40:853][776]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.38.44:880][788]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Ear (2)), InstanceID=1
+[2023.10.13-14.38.44:880][788]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.38.45:206][788]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d1e313d8-4f1e-427c-bb85-56d1d883ebed}, Name=Headphones (Ear (2))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=45.33
+[2023.10.13-14.38.45:206][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.38.45:211][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.38.48:909][800]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.10.13-14.38.48:909][800]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.38.49:231][800]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60eb5d85-9cf6-4e94-aff8-02784ad81bc3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=62.21
+[2023.10.13-14.38.49:231][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.38.49:236][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.38.59:294][831]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Ear (2)), InstanceID=1
+[2023.10.13-14.38.59:294][831]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.38.59:623][831]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d1e313d8-4f1e-427c-bb85-56d1d883ebed}, Name=Headphones (Ear (2))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=29.50
+[2023.10.13-14.38.59:623][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.38.59:630][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.39.17:712][886]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.10.13-14.39.17:712][886]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.39.18:372][887]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60eb5d85-9cf6-4e94-aff8-02784ad81bc3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=497.14
+[2023.10.13-14.39.18:374][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.39.18:381][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.39.27:765][916]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Ear (2)), InstanceID=1
+[2023.10.13-14.39.27:765][916]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.39.28:093][916]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d1e313d8-4f1e-427c-bb85-56d1d883ebed}, Name=Headphones (Ear (2))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.42
+[2023.10.13-14.39.28:093][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.39.28:101][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.39.34:813][937]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.10.13-14.39.34:813][937]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.39.35:143][937]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60eb5d85-9cf6-4e94-aff8-02784ad81bc3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=54.04
+[2023.10.13-14.39.35:143][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.39.35:150][938]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.39.38:501][948]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Ear (2)), InstanceID=1
+[2023.10.13-14.39.38:501][948]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.39.38:833][948]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d1e313d8-4f1e-427c-bb85-56d1d883ebed}, Name=Headphones (Ear (2))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=46.40
+[2023.10.13-14.39.38:833][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.39.38:842][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.39.46:529][972]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.10.13-14.39.46:529][972]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.39.46:859][972]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60eb5d85-9cf6-4e94-aff8-02784ad81bc3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=58.20
+[2023.10.13-14.39.46:859][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.39.46:864][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.39.52:229][989]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Ear (2)), InstanceID=1
+[2023.10.13-14.39.52:229][989]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.39.52:562][989]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d1e313d8-4f1e-427c-bb85-56d1d883ebed}, Name=Headphones (Ear (2))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=26.55
+[2023.10.13-14.39.52:562][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.39.52:569][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.41.16:858][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.10.13-14.41.16:863][240]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestWorld_Auto1
+[2023.10.13-14.41.16:863][240]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/TestWorld_Auto19254886F4AA764A17FE8A88707E7C541.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/TestWorld_Auto1.umap'
+[2023.10.13-14.41.16:874][240]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestWorld' took 0.029
+[2023.10.13-14.41.16:874][240]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2023.10.13-14.41.30:401][361]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.13-14.41.30:506][361]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.13-14.41.30:523][362]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.13-14.41.33:599][546]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2023.10.13-14.41.33:600][546]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.13-14.41.45:635][910]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.13-14.41.48:962][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.13-14.41.48:966][ 22]LogSavePackage: Moving output files for package: /Game/Levels/TestWorld
+[2023.10.13-14.41.48:967][ 22]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/TestWorld496CE65748D982FCADDA65A37A40C921.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Levels/TestWorld.umap'
+[2023.10.13-14.41.48:983][ 22]LogFileHelpers: Saving map 'TestWorld' took 0.033
+[2023.10.13-14.41.49:027][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.13-14.41.49:036][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.13-14.41.49:044][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.10.13-14.41.49:100][ 22]AssetCheck: New page: Asset Save: TestWorld
+[2023.10.13-14.41.49:100][ 22]LogContentValidation: Display: Validating World /Game/Levels/TestWorld.TestWorld
+[2023.10.13-14.41.53:335][128]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.13-14.41.53:418][128]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.13-14.41.53:431][129]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.13-14.43.42:460][585]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2023.10.13-14.43.42:460][585]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.13-14.43.46:352][737]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.13-14.43.46:368][737]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.13-14.43.46:406][739]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.13-14.50.12:950][871]LogContentBrowser: Attempting asset rename: NewFolder -> KennyAsset
+[2023.10.13-14.50.12:950][871]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.13-14.52.33:614][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_03.png)
+[2023.10.13-14.52.33:640][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_03.texture_03 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:640][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_04.png)
+[2023.10.13-14.52.33:669][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_04.texture_04 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:669][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_05.png)
+[2023.10.13-14.52.33:695][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_05.texture_05 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:695][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_06.png)
+[2023.10.13-14.52.33:723][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_06.texture_06 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:723][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_07.png)
+[2023.10.13-14.52.33:751][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_07.texture_07 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:751][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_08.png)
+[2023.10.13-14.52.33:782][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_08.texture_08 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:782][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_09.png)
+[2023.10.13-14.52.33:809][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_09.texture_09 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:809][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_10.png)
+[2023.10.13-14.52.33:824][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_10.texture_10 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:841][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_11.png)
+[2023.10.13-14.52.33:868][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_11.texture_11 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:868][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_12.png)
+[2023.10.13-14.52.33:896][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_12.texture_12 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:896][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_13.png)
+[2023.10.13-14.52.33:926][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_13.texture_13 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:926][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_01.png)
+[2023.10.13-14.52.33:952][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_01.texture_01 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.33:952][ 84]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_02.png)
+[2023.10.13-14.52.33:970][ 84]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_02.texture_02 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.52.59:441][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.10.13-14.52.59:442][313]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestWorld' took 0.017
+[2023.10.13-14.52.59:443][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_03] ([1] browsable assets)...
+[2023.10.13-14.52.59:455][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_03.texture_03]
+[2023.10.13-14.52.59:455][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_03]
+[2023.10.13-14.52.59:460][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_03_Auto2
+[2023.10.13-14.52.59:460][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_03_Auto2ACD09EEF485A5E5A45A79BB8FD154996.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_03_Auto2.uasset'
+[2023.10.13-14.52.59:462][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_04] ([1] browsable assets)...
+[2023.10.13-14.52.59:465][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_04.texture_04]
+[2023.10.13-14.52.59:465][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_04]
+[2023.10.13-14.52.59:471][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_04_Auto2
+[2023.10.13-14.52.59:471][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_04_Auto2E32B95C040E3BCE748D753B4142E4B63.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_04_Auto2.uasset'
+[2023.10.13-14.52.59:473][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_05] ([1] browsable assets)...
+[2023.10.13-14.52.59:476][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_05.texture_05]
+[2023.10.13-14.52.59:476][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_05]
+[2023.10.13-14.52.59:482][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_05_Auto2
+[2023.10.13-14.52.59:482][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_05_Auto2644D907F40BFFCA23CE6FCA7FA10DAF7.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_05_Auto2.uasset'
+[2023.10.13-14.52.59:483][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_06] ([1] browsable assets)...
+[2023.10.13-14.52.59:486][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_06.texture_06]
+[2023.10.13-14.52.59:486][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_06]
+[2023.10.13-14.52.59:491][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_06_Auto2
+[2023.10.13-14.52.59:491][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_06_Auto21A4CC7C2496EACADC2A94F87E77B6524.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_06_Auto2.uasset'
+[2023.10.13-14.52.59:492][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_07] ([1] browsable assets)...
+[2023.10.13-14.52.59:494][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_07.texture_07]
+[2023.10.13-14.52.59:494][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_07]
+[2023.10.13-14.52.59:499][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_07_Auto2
+[2023.10.13-14.52.59:499][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_07_Auto2BB3EAFD54E94A085CED6D5A4511FE8BB.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_07_Auto2.uasset'
+[2023.10.13-14.52.59:500][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_08] ([1] browsable assets)...
+[2023.10.13-14.52.59:502][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_08.texture_08]
+[2023.10.13-14.52.59:502][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_08]
+[2023.10.13-14.52.59:506][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_08_Auto2
+[2023.10.13-14.52.59:506][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_08_Auto28061DA794215C1349B701D8C82255DD7.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_08_Auto2.uasset'
+[2023.10.13-14.52.59:507][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_09] ([1] browsable assets)...
+[2023.10.13-14.52.59:510][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_09.texture_09]
+[2023.10.13-14.52.59:510][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_09]
+[2023.10.13-14.52.59:515][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_09_Auto2
+[2023.10.13-14.52.59:515][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_09_Auto2CE15E36A4C03E519D15F558990773BB3.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_09_Auto2.uasset'
+[2023.10.13-14.52.59:516][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_10] ([1] browsable assets)...
+[2023.10.13-14.52.59:518][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_10.texture_10]
+[2023.10.13-14.52.59:518][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_10]
+[2023.10.13-14.52.59:522][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_10_Auto2
+[2023.10.13-14.52.59:522][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_10_Auto2C063E171468E4776772553BC898A7F79.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_10_Auto2.uasset'
+[2023.10.13-14.52.59:523][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_11] ([1] browsable assets)...
+[2023.10.13-14.52.59:525][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_11.texture_11]
+[2023.10.13-14.52.59:525][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_11]
+[2023.10.13-14.52.59:530][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_11_Auto2
+[2023.10.13-14.52.59:530][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_11_Auto25F8F88FA483A11D9D501B2B2F0658DC8.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_11_Auto2.uasset'
+[2023.10.13-14.52.59:532][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_12] ([1] browsable assets)...
+[2023.10.13-14.52.59:535][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_12.texture_12]
+[2023.10.13-14.52.59:535][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_12]
+[2023.10.13-14.52.59:540][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_12_Auto2
+[2023.10.13-14.52.59:540][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_12_Auto2F08FA4DC4D589CFAB2D507895823AB4B.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_12_Auto2.uasset'
+[2023.10.13-14.52.59:540][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_13] ([1] browsable assets)...
+[2023.10.13-14.52.59:543][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_13.texture_13]
+[2023.10.13-14.52.59:543][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_13]
+[2023.10.13-14.52.59:547][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_13_Auto2
+[2023.10.13-14.52.59:547][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_13_Auto28251ED8240C431AB0B5E8D89F2469C66.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_13_Auto2.uasset'
+[2023.10.13-14.52.59:548][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_01] ([1] browsable assets)...
+[2023.10.13-14.52.59:552][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_01.texture_01]
+[2023.10.13-14.52.59:552][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_01]
+[2023.10.13-14.52.59:555][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_01_Auto2
+[2023.10.13-14.52.59:555][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_01_Auto20F975C61477FB2C4590A329C881FC7F3.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_01_Auto2.uasset'
+[2023.10.13-14.52.59:556][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/texture_02] ([1] browsable assets)...
+[2023.10.13-14.52.59:558][313]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/texture_02.texture_02]
+[2023.10.13-14.52.59:558][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/texture_02]
+[2023.10.13-14.52.59:564][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/texture_02_Auto2
+[2023.10.13-14.52.59:564][313]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_02_Auto2AAFBDD384C3623114DA8D58D2A204CB8.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/texture_02_Auto2.uasset'
+[2023.10.13-14.52.59:565][313]LogFileHelpers: Auto-saving content packages took 0.122
+[2023.10.13-14.53.29:723][901]LogSlate: Window 'Message' being destroyed
+[2023.10.13-14.53.29:754][901]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Assets/KennyAsset/texture_01
+[2023.10.13-14.53.29:754][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_01.png)
+[2023.10.13-14.53.31:091][901]LogSlate: Window 'Message' being destroyed
+[2023.10.13-14.53.31:120][901]Message dialog closed, result: YesAll, title: Message, text: You are about to import 'texture_01' over an existing texture. Would you like to overwrite the existing settings?
+
+Yes or Yes to All: Overwrite the existing settings.
+No or No to All: Preserve the existing settings.
+Cancel: Abort the operation.
+[2023.10.13-14.53.31:141][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_01.texture_01 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:223][901]LogSlate: Window 'Message' being destroyed
+[2023.10.13-14.53.32:257][901]Message dialog closed, result: YesAll, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Assets/KennyAsset/texture_02
+[2023.10.13-14.53.32:257][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_02.png)
+[2023.10.13-14.53.32:273][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_02.texture_02 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:274][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_03.png)
+[2023.10.13-14.53.32:294][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_04.png)
+[2023.10.13-14.53.32:306][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_03.texture_03 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:314][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_05.png)
+[2023.10.13-14.53.32:315][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_04.texture_04 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:334][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_06.png)
+[2023.10.13-14.53.32:348][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_05.texture_05 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:354][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_07.png)
+[2023.10.13-14.53.32:368][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_06.texture_06 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:376][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_08.png)
+[2023.10.13-14.53.32:378][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_07.texture_07 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:398][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_09.png)
+[2023.10.13-14.53.32:411][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_08.texture_08 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:418][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_10.png)
+[2023.10.13-14.53.32:430][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_09.texture_09 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:438][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_11.png)
+[2023.10.13-14.53.32:453][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_10.texture_10 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:460][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_12.png)
+[2023.10.13-14.53.32:472][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_11.texture_11 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:480][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Dark/texture_13.png)
+[2023.10.13-14.53.32:495][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_12.texture_12 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.32:509][901]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/texture_13.texture_13 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.53.38:444][177]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.13-14.53.38:453][177]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.13-14.53.38:462][178]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.13-14.53.40:336][289]LogContentBrowser: Attempting asset rename: NewFolder -> Black
+[2023.10.13-14.53.40:336][289]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.13-14.53.49:676][593]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_01
+[2023.10.13-14.53.49:676][593]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_0186749969404DC1102DF5BAB771DCB86A.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_01.uasset'
+[2023.10.13-14.53.49:713][593]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_02
+[2023.10.13-14.53.49:713][593]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_02D9C8B6B446F589A794478A81C01EC827.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_02.uasset'
+[2023.10.13-14.53.49:748][593]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_03
+[2023.10.13-14.53.49:748][593]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_03990085D5450D04DCED3683980CCAD9EA.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_03.uasset'
+[2023.10.13-14.53.49:788][593]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_04
+[2023.10.13-14.53.49:788][593]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_048AF123BC4DED38C577610990CAE771F2.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_04.uasset'
+[2023.10.13-14.53.49:825][593]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_05
+[2023.10.13-14.53.49:825][593]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_05225456294F59CAD2854F5AA8414648BA.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_05.uasset'
+[2023.10.13-14.53.49:866][593]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_06
+[2023.10.13-14.53.49:866][593]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_068DD982184681929CE012AC86EB07370B.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_06.uasset'
+[2023.10.13-14.53.49:899][593]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_07
+[2023.10.13-14.53.49:900][593]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_07583B6B564F76EF05C2877AB4BD404A31.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_07.uasset'
+[2023.10.13-14.53.49:930][593]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_08
+[2023.10.13-14.53.49:930][593]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_085AC0D6C04C59EDCED1ABD5B947CB8256.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_08.uasset'
+[2023.10.13-14.53.49:971][593]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_09
+[2023.10.13-14.53.49:972][593]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_09D11C70BE4D930485BABE99BE5BE5B55C.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_09.uasset'
+[2023.10.13-14.53.50:006][593]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_10
+[2023.10.13-14.53.50:006][593]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_10D9A9C21B4B7575C0949AAEA32327C197.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_10.uasset'
+[2023.10.13-14.53.50:102][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.13-14.53.50:110][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.10.13-14.53.50:117][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.10.13-14.53.50:169][593]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.13-14.53.50:169][593]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_02.texture_02
+[2023.10.13-14.53.50:169][593]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_01.texture_01
+[2023.10.13-14.53.50:169][593]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_10.texture_10
+[2023.10.13-14.53.50:169][593]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_09.texture_09
+[2023.10.13-14.53.50:169][593]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_08.texture_08
+[2023.10.13-14.53.50:170][593]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_07.texture_07
+[2023.10.13-14.53.50:170][593]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_06.texture_06
+[2023.10.13-14.53.50:170][593]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_05.texture_05
+[2023.10.13-14.53.50:170][593]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_04.texture_04
+[2023.10.13-14.53.50:170][593]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_03.texture_03
+[2023.10.13-14.53.56:535][766]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_11
+[2023.10.13-14.53.56:535][766]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_1142BD95754F66C1B283A8AC8874503B9C.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_11.uasset'
+[2023.10.13-14.53.56:571][766]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_12
+[2023.10.13-14.53.56:571][766]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_12E779785D4DA592903BE2BAB2814AD814.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_12.uasset'
+[2023.10.13-14.53.56:606][766]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Black/texture_13
+[2023.10.13-14.53.56:607][766]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_13D9CCED9D4EC7514C7D9D3B833D4D0EB6.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Black/texture_13.uasset'
+[2023.10.13-14.53.56:658][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.13-14.53.56:667][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.10.13-14.53.56:676][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.10.13-14.53.56:749][766]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.13-14.53.56:749][766]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_13.texture_13
+[2023.10.13-14.53.56:749][766]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_12.texture_12
+[2023.10.13-14.53.56:749][766]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Black/texture_11.texture_11
+[2023.10.13-14.53.58:904][811]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.13-14.53.58:999][811]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.13-14.53.59:009][812]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.13-14.54.03:924][ 82]LogContentBrowser: Attempting asset rename: NewFolder -> Light
+[2023.10.13-14.54.03:925][ 82]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.13-14.54.16:339][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_03.png)
+[2023.10.13-14.54.16:351][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_04.png)
+[2023.10.13-14.54.16:365][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_03.texture_03 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:365][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_04.texture_04 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:365][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_05.png)
+[2023.10.13-14.54.16:382][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_06.png)
+[2023.10.13-14.54.16:402][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_05.texture_05 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:402][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_07.png)
+[2023.10.13-14.54.16:422][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_06.texture_06 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:422][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_08.png)
+[2023.10.13-14.54.16:440][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_07.texture_07 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:440][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_09.png)
+[2023.10.13-14.54.16:462][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_08.texture_08 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:462][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_09.texture_09 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:462][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_10.png)
+[2023.10.13-14.54.16:480][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_11.png)
+[2023.10.13-14.54.16:499][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_10.texture_10 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:499][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_12.png)
+[2023.10.13-14.54.16:517][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_11.texture_11 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:517][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_13.png)
+[2023.10.13-14.54.16:535][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_12.texture_12 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:538][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_13.texture_13 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:538][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_01.png)
+[2023.10.13-14.54.16:556][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Light/texture_02.png)
+[2023.10.13-14.54.16:575][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_01.texture_01 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.16:576][344]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Light/texture_02.texture_02 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.24:362][583]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.13-14.54.24:378][583]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.13-14.54.24:389][584]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.13-14.54.27:715][654]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.10.13-14.54.27:717][654]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.13-14.54.30:818][826]LogContentBrowser: Attempting asset rename: NewFolder -> Blue
+[2023.10.13-14.54.44:315][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_01.png)
+[2023.10.13-14.54.44:336][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_01.texture_01 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:336][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_02.png)
+[2023.10.13-14.54.44:367][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_02.texture_02 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:367][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_03.png)
+[2023.10.13-14.54.44:398][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_03.texture_03 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:398][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_04.png)
+[2023.10.13-14.54.44:426][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_04.texture_04 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:426][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_05.png)
+[2023.10.13-14.54.44:454][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_05.texture_05 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:454][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_06.png)
+[2023.10.13-14.54.44:482][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_06.texture_06 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:482][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_07.png)
+[2023.10.13-14.54.44:514][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_07.texture_07 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:514][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_08.png)
+[2023.10.13-14.54.44:544][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_08.texture_08 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:544][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_09.png)
+[2023.10.13-14.54.44:572][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_09.texture_09 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:572][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_10.png)
+[2023.10.13-14.54.44:599][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_10.texture_10 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:599][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_11.png)
+[2023.10.13-14.54.44:626][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_11.texture_11 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:626][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_12.png)
+[2023.10.13-14.54.44:655][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_12.texture_12 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.44:655][938]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Yogna/Downloads/kenney_prototype-textures/PNG/Orange/texture_13.png)
+[2023.10.13-14.54.44:674][938]LogTexture: Display: Building textures: /Game/Assets/KennyAsset/Blue/texture_13.texture_13 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.13-14.54.50:065][194]LogContentBrowser: Attempting asset rename: Blue -> Orange
+[2023.10.13-14.54.50:322][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_13
+[2023.10.13-14.54.50:322][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_13E129D84F4E97364BC423CE97C85B4C4D.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_13.uasset'
+[2023.10.13-14.54.50:362][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_12
+[2023.10.13-14.54.50:364][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_12E718EC4A4470B2A0CDD410881B8C243A.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_12.uasset'
+[2023.10.13-14.54.50:395][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_11
+[2023.10.13-14.54.50:396][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_11F0E712CA4B39B4413323E68254E672B6.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_11.uasset'
+[2023.10.13-14.54.50:430][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_10
+[2023.10.13-14.54.50:430][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_10E1A2A7B140D0264D13FB759D382B3134.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_10.uasset'
+[2023.10.13-14.54.50:467][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_09
+[2023.10.13-14.54.50:467][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_09C1CB2A7C48FD6D4B38863DB23FBE367B.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_09.uasset'
+[2023.10.13-14.54.50:505][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_08
+[2023.10.13-14.54.50:505][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_08CD78DCE249127DCE8B19B2BDFD1D8471.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_08.uasset'
+[2023.10.13-14.54.50:540][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_07
+[2023.10.13-14.54.50:540][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_07E59050EE49AFF71B02E48E807EE9F177.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_07.uasset'
+[2023.10.13-14.54.50:578][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_06
+[2023.10.13-14.54.50:578][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_06BCAA57E449B277EAF282309E8A05570A.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_06.uasset'
+[2023.10.13-14.54.50:612][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_05
+[2023.10.13-14.54.50:612][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_054F3C014140090CFDE102C9A8F2A312A7.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_05.uasset'
+[2023.10.13-14.54.50:641][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_04
+[2023.10.13-14.54.50:641][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_043F97222F47C44A78692034B4F2EFE453.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_04.uasset'
+[2023.10.13-14.54.50:680][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_03
+[2023.10.13-14.54.50:680][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_037762DA6143A323CDC96D53A1E389D64F.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_03.uasset'
+[2023.10.13-14.54.50:713][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_02
+[2023.10.13-14.54.50:713][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_0299B8899B4D31AAC742940BAD4531DCE7.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_02.uasset'
+[2023.10.13-14.54.50:747][194]LogSavePackage: Moving output files for package: /Game/Assets/KennyAsset/Orange/texture_01
+[2023.10.13-14.54.50:747][194]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_012A15CADF49743E41771CEA8B321F074E.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Assets/KennyAsset/Orange/texture_01.uasset'
+[2023.10.13-14.54.50:868][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.13-14.54.50:878][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.13-14.54.50:886][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.10.13-14.54.50:896][194]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_13.texture_13
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_12.texture_12
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_11.texture_11
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_10.texture_10
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_09.texture_09
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_08.texture_08
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_07.texture_07
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_06.texture_06
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_05.texture_05
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_04.texture_04
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_03.texture_03
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_02.texture_02
+[2023.10.13-14.54.50:896][194]LogContentValidation: Display: Validating Texture2D /Game/Assets/KennyAsset/Orange/texture_01.texture_01
+[2023.10.13-14.56.40:493][438]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.10.13-14.56.40:493][438]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-14.56.41:156][439]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60eb5d85-9cf6-4e94-aff8-02784ad81bc3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=540.45
+[2023.10.13-14.56.41:156][439]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-14.56.41:162][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-14.57.30:813][821]Cmd: STAT FPS
+[2023.10.13-14.57.33:881][997]Cmd: SELECT NONE
+[2023.10.13-14.57.57:779][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.13-14.57.57:784][982]LogSavePackage: Moving output files for package: /Game/Levels/TestWorld
+[2023.10.13-14.57.57:784][982]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/TestWorld9986F8244B597267710632A16300FF7C.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Content/Levels/TestWorld.umap'
+[2023.10.13-14.57.57:838][982]AssetCheck: New page: Asset Save: TestWorld
+[2023.10.13-14.57.57:838][982]LogContentValidation: Display: Validating World /Game/Levels/TestWorld.TestWorld
+[2023.10.13-14.58.09:753][289]LogViewport: Scene viewport resized to 1167x510, mode Windowed.
+[2023.10.13-14.58.11:218][367]LogViewport: Scene viewport resized to 1173x510, mode Windowed.
+[2023.10.13-14.58.11:291][369]LogViewport: Scene viewport resized to 1208x510, mode Windowed.
+[2023.10.13-14.58.11:379][371]LogViewport: Scene viewport resized to 1239x510, mode Windowed.
+[2023.10.13-14.58.11:477][373]LogViewport: Scene viewport resized to 1247x510, mode Windowed.
+[2023.10.13-14.58.11:537][375]LogViewport: Scene viewport resized to 1249x510, mode Windowed.
+[2023.10.13-14.58.11:633][381]LogViewport: Scene viewport resized to 1253x510, mode Windowed.
+[2023.10.13-14.58.11:700][383]LogViewport: Scene viewport resized to 1257x510, mode Windowed.
+[2023.10.13-14.58.12:016][402]LogViewport: Scene viewport resized to 1259x510, mode Windowed.
+[2023.10.13-14.58.12:117][404]LogViewport: Scene viewport resized to 1281x510, mode Windowed.
+[2023.10.13-14.58.28:006][998]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.10.13-15.03.52:242][893]LogEditorViewport: Clicking Background
+[2023.10.13-15.03.57:088][ 74]MapCheck: New page: Map Check
+[2023.10.13-15.03.57:145][ 74]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.13-15.03.57:146][ 74]Cmd: MAP REBUILD ALLVISIBLE
+[2023.10.13-15.03.57:192][ 74]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.10.13-15.03.57:195][ 74]LogWorld: UWorld::CleanupWorld for TestWorld, bSessionEnded=true, bCleanupResources=false
+[2023.10.13-15.03.57:215][ 74]LightingResults: New page: Lighting Build - 13 Oct 2023, 17:03:57
+[2023.10.13-15.03.57:336][ 74]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.10.13-15.03.57:741][ 74]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.10.13-15.03.57:762][ 74]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.10.13-15.03.58:793][ 74]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.10.13-15.03.58:793][ 74]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2032
+[2023.10.13-15.04.06:688][ 74]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.10.13-15.04.06:688][ 74]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.10.13-15.04.06:688][ 74]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.10.13-15.04.06:688][ 74]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.10.13-15.04.06:688][ 74]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.10.13-15.04.06:688][ 74]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.10.13-15.04.06:895][ 74]LogEditorBuildUtils: Build time 0:09
+[2023.10.13-15.04.06:918][ 74]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 901E38A674CC9E1328D7B0C07EAE2FBA4CE98E7F), compiling. Is special engine material.
+[2023.10.13-15.04.06:962][ 74]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5F13967C028C1AF9F59E820DE2BEBD4EEF549D14), compiling. Is special engine material.
+[2023.10.13-15.04.10:137][ 75]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.10.13-15.04.10:137][ 75]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049889s
+[2023.10.13-15.04.10:137][ 75]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.050000s (0.050126s overbudget)
+[2023.10.13-15.04.10:170][ 75]LogShaderCompilers: Display: ================================================
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 2.13 s
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Job life time (pending + execution): average 2.10 s, max 2.18
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.18 s
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Average processing rate: 1.83 jobs/sec
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Effective parallelization: 1.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.99 sec, max 1.00 sec, min 0.98 sec)
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.82 sec, max 0.84 sec, min 0.79 sec)
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 54.73% of total time (compiled    2 times, average 0.99 sec, max 1.00 sec, min 0.98 sec)
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.27% of total time (compiled    2 times, average 0.82 sec, max 0.84 sec, min 0.79 sec)
+[2023.10.13-15.04.10:172][ 75]LogShaderCompilers: Display: ================================================
+[2023.10.13-15.04.10:356][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.10.13-15.04.12:908][115]Job is a success!
+[2023.10.13-15.04.13:470][116]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2023.10.13-15.04.13:471][116]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.10.13-15.04.13:471][116]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2023.10.13-15.04.13:471][116]LogVolumetricLightmapImport:      Bricks at depth
+[2023.10.13-15.04.13:471][116]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2023.10.13-15.04.13:471][116]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2023.10.13-15.04.13:471][116]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2023.10.13-15.04.13:471][116]LogVolumetricLightmapImport:      Bricks in each level
+[2023.10.13-15.04.13:471][116]LogVolumetricLightmapImport:          TestWorld 			 2 bricks 	 100.0% (Persistent Level)
+[2023.10.13-15.04.13:481][116]LogTexture: Display: Building textures: /Game/Levels/TestWorld_BuiltData.TestWorld_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.10.13-15.04.13:484][116]LogTexture: Display: Building textures: /Game/Levels/TestWorld_BuiltData.TestWorld_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.10.13-15.04.13:490][116]LogTexture: Display: Building textures: /Game/Levels/TestWorld_BuiltData.TestWorld_BuiltData:ShadowMapTexture2D_0 (G8, 64X128 X1X1) (Required Memory Estimate: 0.052085 MB), EncodeSpeed: Fast
+[2023.10.13-15.04.13:517][116]LogStaticLightingSystem: TestWorld_BuiltData storing lightmap data for 3 meshes in 1 LightmapResourceClusters (3.0 Meshes per cluster).
+[2023.10.13-15.04.13:532][116]Lightmass on ARHAM-LAPTOP: 1.24 sec total, 292 ms importing, 41 ms setup, 35 ms photons, 853 ms processing, 0 us extra exporting [6/6 mappings]. Threads: 9.37 sec total, 44 ms processing.
+[2023.10.13-15.04.13:572][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.10.13-15.04.13:779][116]LogStaticLightingSystem: Illumination: 16.3 sec (11 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2023.10.13-15.04.13:779][116]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.0 MB streaming, 0.1 MB non-streaming), 2 textures
+[2023.10.13-15.04.13:779][116]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2023.10.13-15.04.19:149][116]DumpUnbuiltLightIteractions
+[2023.10.13-15.04.19:149][116]Lights with unbuilt interactions: 0
+[2023.10.13-15.04.19:149][116]
+[2023.10.13-15.04.19:149][116]Primitives with unbuilt interactions: 0
+[2023.10.13-15.04.19:155][117]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.10.13-15.04.19:156][117]MapCheck: New page: TestWorld - 13 Oct 2023, 17:04:19
+[2023.10.13-15.04.19:156][117]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.469ms to complete.
+[2023.10.13-15.08.04:092][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.10.13-15.08.04:100][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/TestWorld_Auto3
+[2023.10.13-15.08.04:100][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/TestWorld_Auto3D5CA4D7647F6F64E5AF07295A7F45435.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Levels/TestWorld_Auto3.umap'
+[2023.10.13-15.08.04:117][302]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestWorld' took 0.036
+[2023.10.13-15.08.04:117][302]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2023.10.13-15.08.04:118][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_03] ([1] browsable assets)...
+[2023.10.13-15.08.04:122][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_03.texture_03]
+[2023.10.13-15.08.04:122][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_03]
+[2023.10.13-15.08.04:126][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_03_Auto3
+[2023.10.13-15.08.04:127][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_03_Auto3FD0E20374511EDEC2E452CA28EE86FA4.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_03_Auto3.uasset'
+[2023.10.13-15.08.04:127][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_04] ([1] browsable assets)...
+[2023.10.13-15.08.04:130][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_04.texture_04]
+[2023.10.13-15.08.04:130][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_04]
+[2023.10.13-15.08.04:135][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_04_Auto3
+[2023.10.13-15.08.04:135][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_04_Auto3462E5B764711E70164DFB0AD726BF4D6.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_04_Auto3.uasset'
+[2023.10.13-15.08.04:136][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_05] ([1] browsable assets)...
+[2023.10.13-15.08.04:139][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_05.texture_05]
+[2023.10.13-15.08.04:139][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_05]
+[2023.10.13-15.08.04:144][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_05_Auto3
+[2023.10.13-15.08.04:144][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_05_Auto344097BAB44F303150CFD01BD21B530D4.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_05_Auto3.uasset'
+[2023.10.13-15.08.04:146][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_06] ([1] browsable assets)...
+[2023.10.13-15.08.04:149][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_06.texture_06]
+[2023.10.13-15.08.04:149][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_06]
+[2023.10.13-15.08.04:154][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_06_Auto3
+[2023.10.13-15.08.04:154][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_06_Auto392A04FAC413EA73BAF3C61B7629D0DD7.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_06_Auto3.uasset'
+[2023.10.13-15.08.04:156][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_07] ([1] browsable assets)...
+[2023.10.13-15.08.04:159][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_07.texture_07]
+[2023.10.13-15.08.04:159][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_07]
+[2023.10.13-15.08.04:164][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_07_Auto3
+[2023.10.13-15.08.04:164][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_07_Auto305A32C254AE86981F18C9295A35B44E8.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_07_Auto3.uasset'
+[2023.10.13-15.08.04:165][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_08] ([1] browsable assets)...
+[2023.10.13-15.08.04:168][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_08.texture_08]
+[2023.10.13-15.08.04:168][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_08]
+[2023.10.13-15.08.04:173][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_08_Auto3
+[2023.10.13-15.08.04:173][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_08_Auto39C92B1284B3741CCB14CF9834BC45DC1.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_08_Auto3.uasset'
+[2023.10.13-15.08.04:174][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_09] ([1] browsable assets)...
+[2023.10.13-15.08.04:178][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_09.texture_09]
+[2023.10.13-15.08.04:178][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_09]
+[2023.10.13-15.08.04:182][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_09_Auto3
+[2023.10.13-15.08.04:183][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_09_Auto3D0A0B8E44AA2C3228EDDA2A60B33B1C4.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_09_Auto3.uasset'
+[2023.10.13-15.08.04:184][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_10] ([1] browsable assets)...
+[2023.10.13-15.08.04:187][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_10.texture_10]
+[2023.10.13-15.08.04:187][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_10]
+[2023.10.13-15.08.04:192][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_10_Auto3
+[2023.10.13-15.08.04:193][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_10_Auto3DC5F4C6B48A739725D14F8BCF1D5FBCC.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_10_Auto3.uasset'
+[2023.10.13-15.08.04:194][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_11] ([1] browsable assets)...
+[2023.10.13-15.08.04:197][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_11.texture_11]
+[2023.10.13-15.08.04:198][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_11]
+[2023.10.13-15.08.04:206][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_11_Auto3
+[2023.10.13-15.08.04:207][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_11_Auto347C7C4BC4EF5F1777DA724B7A234C19E.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_11_Auto3.uasset'
+[2023.10.13-15.08.04:209][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_12] ([1] browsable assets)...
+[2023.10.13-15.08.04:211][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_12.texture_12]
+[2023.10.13-15.08.04:211][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_12]
+[2023.10.13-15.08.04:218][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_12_Auto3
+[2023.10.13-15.08.04:218][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_12_Auto3D3B09DEA45AFA334963694A7A8CB4112.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_12_Auto3.uasset'
+[2023.10.13-15.08.04:219][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_13] ([1] browsable assets)...
+[2023.10.13-15.08.04:222][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_13.texture_13]
+[2023.10.13-15.08.04:222][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_13]
+[2023.10.13-15.08.04:226][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_13_Auto3
+[2023.10.13-15.08.04:227][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_13_Auto361BB3FCC415A30CD8F16AE96CB3CF794.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_13_Auto3.uasset'
+[2023.10.13-15.08.04:228][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_01] ([1] browsable assets)...
+[2023.10.13-15.08.04:230][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_01.texture_01]
+[2023.10.13-15.08.04:230][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_01]
+[2023.10.13-15.08.04:234][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_01_Auto3
+[2023.10.13-15.08.04:234][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_01_Auto3FE257DF849A50C0701320980724A1F2E.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_01_Auto3.uasset'
+[2023.10.13-15.08.04:235][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/KennyAsset/Light/texture_02] ([1] browsable assets)...
+[2023.10.13-15.08.04:238][302]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/KennyAsset/Light/texture_02.texture_02]
+[2023.10.13-15.08.04:238][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/KennyAsset/Light/texture_02]
+[2023.10.13-15.08.04:244][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/KennyAsset/Light/texture_02_Auto3
+[2023.10.13-15.08.04:245][302]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/texture_02_Auto3C376CD6740A2A9D54707CC8B06A9BD53.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Assets/KennyAsset/Light/texture_02_Auto3.uasset'
+[2023.10.13-15.08.04:245][302]LogFileHelpers: Auto-saving content packages took 0.129
+[2023.10.13-15.08.44:458][576]LogEditorViewport: Clicking Background
+[2023.10.13-15.08.49:887][855]Cmd: DELETE
+[2023.10.13-15.08.49:887][855]Cmd: ACTOR DELETE
+[2023.10.13-15.08.49:889][855]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.10.13-15.08.49:900][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.10.13-15.08.49:902][855]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.10.13-15.08.58:525][253]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.10.13-15.08.58:525][253]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.10.13-15.08.58:526][253]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/TestWorld.TestWorld:PersistentLevel.SkyLight_1
+[2023.10.13-15.08.58:526][253]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/TestWorld.TestWorld:PersistentLevel.SkyLight_1
+[2023.10.13-15.08.59:697][314]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.10.13-15.08.59:698][314]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.10.13-15.08.59:699][314]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/TestWorld.TestWorld:PersistentLevel.SkyLight_2
+[2023.10.13-15.08.59:699][314]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/TestWorld.TestWorld:PersistentLevel.SkyLight_2
+[2023.10.13-15.09.05:010][500]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.13-15.09.05:010][500]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.13-15.09.05:011][500]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/TestWorld.TestWorld:PersistentLevel.DirectionalLight_1
+[2023.10.13-15.09.05:011][500]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/TestWorld.TestWorld:PersistentLevel.DirectionalLight_1
+[2023.10.13-15.09.05:877][549]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.13-15.09.05:878][549]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.13-15.09.05:879][549]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/TestWorld.TestWorld:PersistentLevel.DirectionalLight_2
+[2023.10.13-15.09.05:879][549]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/TestWorld.TestWorld:PersistentLevel.DirectionalLight_2
+[2023.10.13-15.09.10:088][792]Cmd: DELETE
+[2023.10.13-15.09.10:088][792]Cmd: ACTOR DELETE
+[2023.10.13-15.09.10:090][792]LogEditorActor: Deleted Actor: SkyLight
+[2023.10.13-15.09.10:102][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.10.13-15.09.10:104][792]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.10.13-15.09.11:133][852]Cmd: TRANSACTION UNDO
+[2023.10.13-15.09.11:133][852]LogEditorTransaction: Undo Delete Elements
+[2023.10.13-15.09.38:816][883]LogEditorViewport: Clicking Background
+[2023.10.13-15.09.44:432][204]LogEditorViewport: Clicking Background
+[2023.10.13-15.13.04:424][255]LogDerivedDataCache: C:/Users/Yogna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.037 and deleted 0 file(s) with total size 0 MiB.
+[2023.10.13-15.18.04:662][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.13-15.18.04:669][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/TestWorld_Auto4
+[2023.10.13-15.18.04:669][148]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/TestWorld_Auto4C44809284A05016375F56295F94CDB1F.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Levels/TestWorld_Auto4.umap'
+[2023.10.13-15.18.04:680][148]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestWorld' took 0.031
+[2023.10.13-15.18.04:680][148]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2023.10.13-15.22.11:113][120]LogEditorViewport: Clicking Background
+[2023.10.13-15.23.08:460][314]LogSlate: Window 'Select Path' being destroyed
+[2023.10.13-15.23.32:742][519]LogEditorViewport: Clicking Background
+[2023.10.13-15.24.47:530][ 56]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.13-15.24.47:554][ 56]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.13-15.24.47:568][ 57]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.13-15.28.05:532][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.13-15.28.05:540][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/TestWorld_Auto5
+[2023.10.13-15.28.05:540][569]LogSavePackage: Moving '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/TestWorld_Auto53F73CBA149CDDE0CF260B28F4396FF0C.tmp' to '../../../../../../Users/Yogna/Documents/GitHub/Final-Year-Project/DroneSImulator/Saved/Autosaves/Game/Levels/TestWorld_Auto5.umap'
+[2023.10.13-15.28.05:550][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestWorld' took 0.032
+[2023.10.13-15.28.05:550][569]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2023.10.13-15.41.06:005][899]LogContentBrowser: Attempting asset rename: NewFolder -> Charca
+[2023.10.13-15.41.06:006][899]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.13-15.41.16:661][133]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2023.10.13-15.41.16:661][133]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-15.41.16:669][134]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-15.41.19:646][134]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-2283ms], ThreadID=7452
+[2023.10.13-15.42.48:520][134]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-88831ms], ThreadID=7452
+[2023.10.13-15.42.50:555][134]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [96033ms] waiting for h/w. InstanceID=1
+[2023.10.13-15.42.50:613][134]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60eb5d85-9cf6-4e94-aff8-02784ad81bc3}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=94876.24
+[2023.10.13-15.42.50:614][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-15.42.50:660][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-15.42.50:696][135]LogHttp: Warning: 000009A674D48C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B42EE3B6C-4280-FE9F-CF66-51BB88B5F736%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=393244194d63faf1a78ed7bf244424ac%7Cb40aa4c1ff78430f9482f2b7f0c0727b%7Cda1bb92f-2168-4043-89cc-fc2b18e3530a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.10.13-15.42.50:697][135]LogHttp: Warning: 000009A674D48C00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.10.13-15.42.50:697][135]LogHttp: Warning: 000009A674D48C00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x9a63e8d0600 [can pipeline])
+[2023.10.13-15.42.50:697][135]LogHttp: Warning: 000009A674D48C00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2023.10.13-15.42.50:697][135]LogHttp: Warning: 000009A674D48C00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.193.191.221) port 443 (#1))
+[2023.10.13-15.42.50:697][135]LogHttp: Warning: 000009A674D48C00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.10.13-15.42.50:697][135]LogHttp: Warning: 000009A674D48C00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.10.13-15.42.50:697][135]LogHttp: Warning: 000009A674D48C00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.10.13-15.42.50:697][135]LogHttp: Warning: 000009A674D48C00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.10.13-15.42.50:698][135]LogHttp: Warning: 000009A674D48C00: libcurl info message cache 7 (Closing connection 1)
+[2023.10.13-15.42.50:698][135]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B42EE3B6C-4280-FE9F-CF66-51BB88B5F736%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=393244194d63faf1a78ed7bf244424ac%7Cb40aa4c1ff78430f9482f2b7f0c0727b%7Cda1bb92f-2168-4043-89cc-fc2b18e3530a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.13-15.42.51:557][136]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7452
+[2023.10.13-15.42.51:888][136]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{60eb5d85-9cf6-4e94-aff8-02784ad81bc3}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=167.58
+[2023.10.13-15.42.51:888][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.13-15.42.51:894][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
